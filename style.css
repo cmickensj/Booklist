@@ -1,0 +1,36 @@
+h1 {
+    margin-left: 25%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+ul li {
+    padding: 20px;
+}
+
+.bTitle {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1em;
+}
+
+/* .bCover-wrapper{
+    width: 150px;
+    position: relative;
+}
+
+.bookCovers {
+    width: 100%;
+}
+
+.alreadyRead {
+} */
+
+.bookCovers {
+    height: 200px;
+    width: auto;
+}
+
+.bCover_wrapper {
+    display: inline-block;
+    margin-left: 150px;
+
+}
